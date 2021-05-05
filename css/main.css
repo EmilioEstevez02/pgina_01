@@ -11,7 +11,7 @@ body{
     height: 250px;
     background-repeat: no-repeat;
     background-position-y: 75px;
-    background-image: url(IMG_03045.jpg.png);
+    background-image: url(css/IMG_03045.jpg.png);
     background-attachment:scroll;
     position: absolute;
     overflow: scroll;
